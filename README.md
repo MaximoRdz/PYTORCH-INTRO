@@ -1,21 +1,21 @@
 ﻿# PYTORCH INTRO
 
-### [Lesson 1](https://github.com/MaximoRdz/PYTORCH-INTRO/blob/main/Lessson1.ipynb)
+### [Lesson 1](https://github.com/MaximoRdz/PYTORCH-INTRO/blob/main/Lesson1.ipynb)
 Broad overview of `PyTorch` tensors compare to `Numpy` arrays. 
 
 ---
 
-### [Lesson 2](https://github.com/MaximoRdz/PYTORCH-INTRO/blob/main/Lessson2.ipynb)
+### [Lesson 2](https://github.com/MaximoRdz/PYTORCH-INTRO/blob/main/Lesson2.ipynb)
 Basic networks, loss function and first model trained with SGD (Stochastic Gradient Descent).
 
 ---
 
-### [Lesson 3](https://github.com/MaximoRdz/PYTORCH-INTRO/blob/main/Lessson3.ipynb)
+### [Lesson 3](https://github.com/MaximoRdz/PYTORCH-INTRO/blob/main/Lesson3.ipynb)
 Discussion on simple models and introduction of ReLu functions.
 
 ---
 
-### [Lesson 4](https://github.com/MaximoRdz/PYTORCH-INTRO/blob/main/Lessson4.ipynb)
+### [Lesson 4](https://github.com/MaximoRdz/PYTORCH-INTRO/blob/main/Lesson4.ipynb)
 Cross entropy loss function leaving mean square fitting behind.
 
 ---
