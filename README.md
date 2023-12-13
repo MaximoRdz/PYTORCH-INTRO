@@ -20,7 +20,7 @@ Cross entropy loss function leaving mean square fitting behind.
 
 ---
 
-### [Lesson 5](https://github.com/MaximoRdz/PYTORCH-INTRO/blob/main/Lessson5.ipynb)
+### [Lesson 5](Lessson5.ipynb)
 MNIST dataset, the "Hello world" of machine learning.
 
 ## Tech Used
